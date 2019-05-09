@@ -1,3 +1,7 @@
+module Curb
+  
+end
+
 require "zipline/version"
 require 'curb'
 require 'zip_tricks'
