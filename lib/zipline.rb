@@ -1,9 +1,6 @@
-module Curb
-  
-end
-
 require "zipline/version"
-require 'curb'
+
+# require 'curb'
 require 'zip_tricks'
 require "zipline/zip_generator"
 
